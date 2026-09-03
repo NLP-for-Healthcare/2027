@@ -144,6 +144,17 @@ footer {
     color: #666;
 }
 
+/* Shared Task group title (Shared Task 1, Shared Task 2, …) */
+.shared-task-title {
+    font-size: 1.1em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8b0000;
+    border-bottom: 1px solid #8b0000;
+    padding-bottom: 4px;
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+}
+
 /* Additional utility styles */
 .task-block {
     border-left: 3px solid #8b0000;
